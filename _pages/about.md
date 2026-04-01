@@ -21,11 +21,11 @@ header:
   <!-- <figcaption>Itty-bitty caption.</figcaption> -->
 </figure>
 
-I am a postdoctoral fellow in [Prof. Sera Markoff](http://www.seramarkoff.com/){:target="_blank"}'s group at [Anton Pannekoek Institute for Astronomy](http://api.uva.nl/){:target="_blank"}.
+From 2018 to 2022, I was a postdoctoral fellow in [Prof. Sera Markoff](http://www.seramarkoff.com/){:target="_blank"}'s group at [Anton Pannekoek Institute for Astronomy](http://api.uva.nl/){:target="_blank"} in Netherlands.
 Using GRMHD code _H-AMR_, I've been studying the dynamics of an accretion disk, wind, and jets around black holes. As a member of the Event Horizon Telescope (EHT) project,
 I've been participating in the collaborative investigation that explores the nature of supermassive black holes, such as Sgr A* and M87.
 
-Before the current position,
+Before the position at Sera's Group,
 I was a CAS PIFI Fellow Postdoctor working with [Prof. Feng Yuan and his group members](http://center.shao.ac.cn/fyuan){:target="_blank"} at [Shanghai Astronomical Observatory](http://english.shao.cas.cn/){:target="_blank"}.
 I truly have diverse interests in astrophysical outflows and their impact on the environment. With Prof. Yuan, I have
 studied theoretically the effects of Active Galactic Nuclei Feedback on the evolution of isolated Early Type Galaxies
@@ -45,7 +45,7 @@ Outside the research, I love to play any sports especially with a ball such as s
 tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guitar.
 
 
-* **Recent & Upcoming Events** 
+* **Events for my Academic Journey** 
    * award the most cited IOP Publishing paper in China between 2018 and 2020: "***On the Role of Hot Feedback Mode in Active Galactic Nuclei Feedback in an Elliptical Galaxy***" 
    * give a lecture in Astronomy Summer Course, organized by [the STEDU Association](https://www.steduassociation.com/){:target="_blank"} (Jun.12 - Aug.08, 2021)
    * present an ePoster in [European Astronomical Society Annual Meeting (EAS) 2021](https://eas.unige.ch/EAS2021/){:target="_blank"} (Jun.28 - Jul.02, 2021)
