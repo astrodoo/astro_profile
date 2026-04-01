@@ -8,3 +8,4 @@ minimal-mistakes-jekyll.gemspec
 screenshot-layouts.png
 screenshot.png
 *~
+.sass-cache/*
